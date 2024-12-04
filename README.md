@@ -56,9 +56,10 @@ Sou um estudante de Front-end, e fiquei fascinado pela programação! Principalm
   />
 
 <img 
-     align="right" 
+     align="left" 
       alt="GitHub Stats" 
       height="100" 
+        style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoilsonBr" 
   />
 
