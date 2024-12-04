@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Sou um estudante de Front-end, e fiquei fascinado pela programação! Principalmente pelo Front-end, pois enquanto eu fui aprendendo eu tive diversos obstáculos onde eu tive que resolver muitos problemas, e acredito que eu gosto muito de resolver problemas. A área do CSS, é onde eu mais me destaco, pois foi onde eu mais me aprofundei sobre responsividade. que é adaptar o site para todas as telas. Design, organização e mantenabilidade.
+Sou um estudante de Front-end, e fiquei fascinado pela programação! Principalmente pelo Front-end, pois enquanto eu fui aprendendo eu tive diversos obstáculos onde eu tive que resolver muitos problemas, e acredito que eu gosto muito de resolver problemas. A área do CSS, é onde mais me destaco, pois foi onde mais me aprofundei sobre responsividade. que é adaptar o site para todas as telas. Design, organização e mantenabilidade.
 
 
 
